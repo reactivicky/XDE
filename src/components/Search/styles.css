@@ -1,0 +1,12 @@
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.search-btn {
+  cursor: pointer;
+}
